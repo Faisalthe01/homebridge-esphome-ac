@@ -1,6 +1,5 @@
 # homebridge-esphome-ac
 
-
 [Homebridge](https://homebridge.io) plugin for ESPHome AC Accessories.
 
 ## Fixes from original plugin
