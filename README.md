@@ -5,6 +5,12 @@
 
 [Homebridge](https://homebridge.io) plugin for ESPHome AC Accessories.
 
+## Fixes from original plugin
+
+This forks fixed the issue where the accessory doesn't change to IDLE state if it reaches the target temperature.
+This fork enables AUTO mode
+This fork fixed to restore the last mode when turning on the AC from the HomeKit tile
+
 ## Why this plugin?
 
 I created this plugin because I did not like the Home Assistant integration for Air Conditioner in HomeKit. this plugin give better control over AC accessory with fan speed and oscilate directly from the accessory settings instead of adding another fan accessory.
@@ -21,13 +27,4 @@ The plugin will automatically collect your configurations from ESPHome and will 
 
 
 -------------------------------------------
-
-## Support homebridge-esphome-ac
-
-**homebridge-esphome-ac** is a free plugin under the MIT license. it was developed as a contribution to the homebridge/hoobs community with lots of love and thoughts.
-Creating and maintaining Homebridge plugins consume a lot of time and effort and if you would like to share your appreciation, feel free to "Star" or donate. 
-
-<a target="blank" href="https://www.paypal.me/nitaybz"><img src="https://img.shields.io/badge/PayPal-Donate-blue.svg?logo=paypal"/></a><br>
-<a target="blank" href="https://www.patreon.com/nitaybz"><img src="https://img.shields.io/badge/PATREON-Become a patron-red.svg?logo=patreon"/></a><br>
-<a target="blank" href="https://ko-fi.com/nitaybz"><img src="https://img.shields.io/badge/Ko--Fi-Buy%20me%20a%20coffee-29abe0.svg?logo=ko-fi"/></a>
 
