@@ -1,7 +1,5 @@
 # homebridge-esphome-ac
 
-[![Downloads](https://img.shields.io/npm/dt/homebridge-esphome-ac.svg?color=critical)](https://www.npmjs.com/package/homebridge-esphome-ac)
-[![Version](https://img.shields.io/npm/v/homebridge-esphome-ac)](https://www.npmjs.com/package/homebridge-esphome-ac)
 
 [Homebridge](https://homebridge.io) plugin for ESPHome AC Accessories.
 
