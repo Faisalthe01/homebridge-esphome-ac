@@ -8,7 +8,9 @@
 ## Fixes from original plugin
 
 This forks fixed the issue where the accessory doesn't change to IDLE state if it reaches the target temperature.
+
 This fork enables AUTO mode
+
 This fork fixed to restore the last mode when turning on the AC from the HomeKit tile
 
 ## Why this plugin?
